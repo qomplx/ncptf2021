@@ -2,7 +2,7 @@
 # NCPTF 2021 | Qomplx Intelligence Unit 
 
 
-## Talk: Archiving for Investigators
+## Talk: Archiving for Investigators - Keith Turner
 ### Blogs / Tips:
 - OSINT Curious: https://osintcurio.us 
 
@@ -30,7 +30,9 @@
 - SCNCPY: https://github.com/Genymobile/scncpy
 - AZ Screen Recorder: Via Google Play Store
 
-## Talk: Archiving Tool for Investigators 2
+---
+
+## Talk: Archiving Tool for Investigators 2 - [Nate Johnson](https://twitter.com/c4pr1c0)
 ### Tools discussed
 - Python3.9: https://www.python.org/downloads/
 - Pip: https://pip.pypa.io/en/stable/installing/
@@ -40,7 +42,8 @@
 
 ---
 
-## Talk: Where the kids hang out
+## Talk: Where the kids hang out - [Salaheldinaz](https://twitter.com/salaheldinaz)
+
 ### Understanding Generations
 - https://www.kasasa.com/articles/generations/gen-x-gen-y-gen-z
 - https://www.verywellfamily.com/a-teen-slang-dictionary-2610994
@@ -67,7 +70,8 @@
 
 ---
 
-## Talk: DarkWeb/Data Breach resources:
+## Talk: DarkWeb/Data Breach - [Michael James](https://twitter.com/Ginsberg5150)
+
 ### Getting to the Tor Network:
 - Tor Browser https://www.torproject.org
 - Tails OS https://tails.boum.org
