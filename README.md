@@ -70,7 +70,7 @@
 
 ---
 
-## Talk: DarkWeb/Data Breach - [Michael James](https://twitter.com/Ginsberg5150)
+## Talk: What you don't know can hurt - [Michael James](https://twitter.com/Ginsberg5150)
 
 ### Getting to the Tor Network:
 - Tor Browser https://www.torproject.org
